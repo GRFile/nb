@@ -1,6 +1,6 @@
 abbreviation: NE
 available: false
-classes: 32
+classes: 1
 colour: 1
 id: 0
 label: NEWC
@@ -13,5 +13,5 @@ sprite:
   filename: cargoes/new-cargo-0.png
   left: 0
   top: 0
-unitName: Items
-weight: 16
+unitName: Passengers
+weight: 0
